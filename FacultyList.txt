@@ -1,0 +1,2 @@
+Roshan Lal,123,123,CSE,rlc@amity.edu
+Anushree,111,111,ECE,anu@gmail.com

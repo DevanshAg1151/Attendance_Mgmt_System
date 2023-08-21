@@ -1,0 +1,5 @@
+Devansh,464,123,03.12.2003,CSE,8,5,devansh@gmail.com
+lakshay,789,lakshay,12.01.2020,CSE,8,5,lakshay@gmail.com
+vatsal,6065,6065,11.11.2003,CSE,8,5,vatsal@amity.edu
+priyanshu,080,080,14.02.2023,CSE,8,5,pri@amity.edu
+Shivam,777,777,14.02.2002,ECE,1,5,shivam@gmail.com

@@ -1,0 +1,2 @@
+EEE,Maths,BEE,ADA,DBMS,EN,OOPS
+ECE,Wires,Comms,Radio,Circuits,DECO,COA
